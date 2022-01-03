@@ -1,4 +1,4 @@
-# .NET Training and Tutorials
+# .NET 教程 from [Github](https://github.com/dotnet/training-tutorials "dotnet")
 
 This repository holds the content used to build the .NET getting started tutorials hosted at http://dot.net
 
@@ -50,7 +50,3 @@ For more information see the [.NET Foundation Code of Conduct](http://www.dotnet
 
 ### .NET Foundation
 This project is supported by the [.NET Foundation](http://www.dotnetfoundation.org).
-
-
-
-
