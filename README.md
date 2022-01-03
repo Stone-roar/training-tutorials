@@ -4,7 +4,7 @@ This repository holds the content used to build the .NET getting started tutoria
 
 ## Organization
 
-The content is broken up into high level groups by topic, initially covering
+本教程涵盖 基础和高级教程。
 - [C#](content/csharp/README.md)
 - [ASP.NET](content/asp.net/README.md)
 - [F#](content/fsharp/README.md)

@@ -1,13 +1,11 @@
-# Getting Started with C# 
+# C# 入门教程
 by [Steve Smith](http://deviq.com/me/steve-smith), [Brendan Enrick](http://deviq.com/me/brendan-enrick), and [Eric Fleming](http://deviq.com/me/eric-fleming)
 
-## Who Should Read This
+## 前言
 
-This tutorial is aimed at people who are learning C# for the first time. No prior programming knowledge is required, but if you're coming from another language, many of the concepts will already be familiar to you and you should be able to move through the tutorial more quickly.
+本教程面向 C# 初学者。如果您有一定的编程基础，将更快的完成本教程。
 
-## Topics Covered
-
-This tutorial will cover the following topics:
+## 目录
 
 - [Creating a Hello World Program](hello-world.md)
 - [Learning about built-in Types and Variables](types-variables.md)
@@ -31,4 +29,4 @@ This tutorial will cover the following topics:
 
 <!-- [Installing .NET and Tools](writing-your-first.md) -->
 <!-- [Types and Variables w/Console.ReadLine](types-variables-user-input.md) -->
-<!-- [Troubleshooting](troubleshooting.md) --> 
+<!-- [Troubleshooting](troubleshooting.md) -->
